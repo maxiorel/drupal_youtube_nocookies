@@ -1,0 +1,7 @@
+name: Youtube Nocookies Filter
+type: module
+description: 'This module changes youtube iframe to youtube-nocookies.com domain'
+core_version_requirement: ^8.8 || ^9
+package: 'Input filters'
+dependencies:
+  - drupal:filter
